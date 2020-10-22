@@ -1,7 +1,7 @@
 # callback-scheduler
 This is a Callback Scheduler form with a very intuitive Calendar to pick from working availability to be called in the future.
 
-This project was bootstrapped with Create React App.
+# This project was bootstrapped with Create React App.
 Available Scripts
 
 In the project directory, you can run:
