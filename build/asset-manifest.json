@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iframes/callback-scheduler/static/css/main.c3925ddc.chunk.css",
+    "main.js": "/iframes/callback-scheduler/static/js/main.89413cef.chunk.js",
+    "main.js.map": "/iframes/callback-scheduler/static/js/main.89413cef.chunk.js.map",
+    "runtime-main.js": "/iframes/callback-scheduler/static/js/runtime-main.49867c87.js",
+    "runtime-main.js.map": "/iframes/callback-scheduler/static/js/runtime-main.49867c87.js.map",
+    "static/css/2.38ba576c.chunk.css": "/iframes/callback-scheduler/static/css/2.38ba576c.chunk.css",
+    "static/js/2.b37645ac.chunk.js": "/iframes/callback-scheduler/static/js/2.b37645ac.chunk.js",
+    "static/js/2.b37645ac.chunk.js.map": "/iframes/callback-scheduler/static/js/2.b37645ac.chunk.js.map",
+    "index.html": "/iframes/callback-scheduler/index.html",
+    "precache-manifest.d48272acedc7eecc43773a351fa8578e.js": "/iframes/callback-scheduler/precache-manifest.d48272acedc7eecc43773a351fa8578e.js",
+    "service-worker.js": "/iframes/callback-scheduler/service-worker.js",
+    "static/css/2.38ba576c.chunk.css.map": "/iframes/callback-scheduler/static/css/2.38ba576c.chunk.css.map",
+    "static/css/main.c3925ddc.chunk.css.map": "/iframes/callback-scheduler/static/css/main.c3925ddc.chunk.css.map",
+    "static/js/2.b37645ac.chunk.js.LICENSE.txt": "/iframes/callback-scheduler/static/js/2.b37645ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49867c87.js",
+    "static/css/2.38ba576c.chunk.css",
+    "static/js/2.b37645ac.chunk.js",
+    "static/css/main.c3925ddc.chunk.css",
+    "static/js/main.89413cef.chunk.js"
+  ]
+}
